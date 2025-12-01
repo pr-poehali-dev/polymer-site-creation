@@ -45,7 +45,7 @@ const Contacts = () => {
                   <div>
                     <h3 className="font-semibold mb-2">Адрес офиса</h3>
                     <p className="text-muted-foreground">
-                      123456, Москва, ул. Промышленная, д. 15, оф. 301
+                      Республика Татарстан, г. Набережные Челны, Советская 17
                     </p>
                   </div>
                 </div>
@@ -60,7 +60,7 @@ const Contacts = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Телефон</h3>
-                    <p className="text-muted-foreground mb-1">+7 (495) 123-45-67</p>
+                    <p className="text-muted-foreground mb-1">+7 962 565-86-66</p>
                     <p className="text-sm text-muted-foreground">Пн-Пт: 9:00 - 18:00</p>
                   </div>
                 </div>
@@ -75,8 +75,7 @@ const Contacts = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Email</h3>
-                    <p className="text-muted-foreground">info@polymercomplect.ru</p>
-                    <p className="text-muted-foreground">sales@polymercomplect.ru</p>
+                    <p className="text-muted-foreground">snab.konsalt@icloud.com</p>
                   </div>
                 </div>
               </CardContent>
