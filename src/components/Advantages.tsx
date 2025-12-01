@@ -67,11 +67,11 @@ const Advantages = () => {
           <div className="flex flex-wrap justify-center gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Phone" size={20} />
-              <span className="font-semibold">+7 (495) 123-45-67</span>
+              <span className="font-semibold">+7 (962) 565-86-66</span>
             </div>
             <div className="flex items-center gap-2">
               <Icon name="Mail" size={20} />
-              <span className="font-semibold">info@polymercomplect.ru</span>
+              <span className="font-semibold">snab.konsalt@icloud.com</span>
             </div>
           </div>
         </div>
