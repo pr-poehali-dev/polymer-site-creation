@@ -13,7 +13,7 @@ const Footer = () => {
               <span className="text-xl font-bold">Альфа Снаб</span>
             </div>
             <p className="text-white/80 text-sm">
-              Надежный поставщик полимерных материалов с 2009 года
+              Надежный поставщик полимерных материалов с 2024 года
             </p>
           </div>
 
