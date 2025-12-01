@@ -13,7 +13,7 @@ const Footer = () => {
               <span className="text-xl font-bold">Альфа Снаб</span>
             </div>
             <p className="text-white/80 text-sm">
-              Надежный поставщик полимерных материалов с 2024 года
+              Более 1 года на рынке полимерных материалов
             </p>
           </div>
 
@@ -32,15 +32,15 @@ const Footer = () => {
             <ul className="space-y-2 text-sm text-white/80">
               <li className="flex items-center gap-2">
                 <Icon name="Phone" size={16} />
-                <span>+7 (495) 123-45-67</span>
+                <span>+7 962 565-86-66</span>
               </li>
               <li className="flex items-center gap-2">
                 <Icon name="Mail" size={16} />
-                <span>info@polymercomplect.ru</span>
+                <span>snab.konsalt@icloud.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <Icon name="MapPin" size={16} />
-                <span>Москва, ул. Промышленная, 15</span>
+                <span>Республика Татарстан, г. Набережные Челны, Советская 17</span>
               </li>
             </ul>
           </div>
