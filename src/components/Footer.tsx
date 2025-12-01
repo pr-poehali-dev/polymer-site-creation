@@ -10,7 +10,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Icon name="Package" size={20} className="text-white" />
               </div>
-              <span className="text-xl font-bold">ПолимерКомплект</span>
+              <span className="text-xl font-bold">Альфа Снаб</span>
             </div>
             <p className="text-white/80 text-sm">
               Надежный поставщик полимерных материалов с 2009 года
@@ -56,7 +56,7 @@ const Footer = () => {
 
         <div className="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-white/60">
-            © 2024 ПолимерКомплект. Все права защищены.
+            © 2024 Альфа Снаб. Все права защищены.
           </p>
           <div className="flex gap-4">
             <a href="#" className="text-white/60 hover:text-white transition-colors">

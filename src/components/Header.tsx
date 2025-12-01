@@ -21,7 +21,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
               <Icon name="Package" size={24} className="text-white" />
             </div>
-            <span className="text-2xl font-bold text-secondary">ПолимерКомплект</span>
+            <span className="text-2xl font-bold text-secondary">Альфа Снаб</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
